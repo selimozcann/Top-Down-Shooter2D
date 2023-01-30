@@ -276,16 +276,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c48e8bad55ddcd45b5abe9decb56d1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _weaponType: 0
   _bulletSpawnPos: {fileID: 1485173226}
   _player: {fileID: 5608270912098379914}
   _bullet: {fileID: 1485173224}
-  _weaponType: 0
   _weaponShootSettings: {fileID: 11400000, guid: b3331857d59d34b419b6524d1a8ca53c, type: 2}
   _enemyMovementController:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   rb: {fileID: 21774285}
+  inputHandler: {fileID: 0}
 --- !u!50 &21774285
 Rigidbody2D:
   serializedVersion: 4

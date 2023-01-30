@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 392c10d4d6c053f4f89b606a8058bf34, type: 3}
   m_Name: EnemyMovementControllerSettings_3
   m_EditorClassIdentifier: 
-  speed: 0
-  lerpTime: 0
+  speed: 1.5
+  lerpTime: 3
   targetOffset: {x: 0, y: 0.7, z: 0}
